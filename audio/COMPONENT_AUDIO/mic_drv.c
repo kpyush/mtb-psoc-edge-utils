@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int mic_init()
 {
     int a = 7;
