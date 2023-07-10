@@ -1,2 +1,2 @@
-# utils
+# PSoC Utils
 Test
