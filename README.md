@@ -1,4 +1,4 @@
-# PSoC Utils
+# MTB-PSoC-Edge-Utils
 
 ### Principles for Minimizing GitHub Repositories and Increasing Code Reusability within the Apps Team:
 1. Modularity: Encourage a modular code structure where each logical component or driver is encapsulated in its own module or directory. This allows for easier reuse of specific functionalities across different code examples.
